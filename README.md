@@ -12,6 +12,7 @@ During the development of this project, I have used next IDE tools:
 
 3. For Editing the Pictures -- Adobe Photoshop CC 2018.
 
+
 This project is about combining various ideas and skills I've been practicing throughout the course. They include:
 
 - Planning my app design before coding.
@@ -23,6 +24,7 @@ This project is about combining various ideas and skills I've been practicing th
 - Creating interactivity through button clicks and Java code.
 
 - Commenting and documenting the code.
+
 
 1. Overall Layout -- App contains 11questions, it includes 9 radio buttons, one checkbox and one text entry.
 
