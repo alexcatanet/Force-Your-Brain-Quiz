@@ -1,4 +1,4 @@
-## #Quiz App
+## Quiz App
 
 This Quiz App project was a chance for me to combine and practice everything I've learned in the Nanodegree program (Android Basics by Google Nanodegree Program).
 
